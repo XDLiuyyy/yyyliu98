@@ -6,7 +6,7 @@ image: /images/3dgaussian.jpg
 categories: research
 author: "Yang Liu"
 authors: "<strong>Yang Liu</strong>, Fang Liu,"
-venue: "arXiv"
+venue: "IEEE Trans"
 arxiv: https://arxiv.org/abs/2308.14737
 code: 
 website: 
