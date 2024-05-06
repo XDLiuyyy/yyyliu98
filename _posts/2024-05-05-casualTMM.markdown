@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "TMP"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+title:  "A Knowledge-Based Hierarchical Causal Inference Network for Video Action Recognition"
+date:   2024-05-06 12:10 +00:00
+image: /images/TMM_image.pdf
 categories: research
 author: "Yang Liu"
-authors: "<strong>Yang Liu</strong>, Fang Liu,"
-venue: "IEEE Trans"
+authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Lingling Li, Yuwei Guo, Puhua Chen"
+venue: "IEEE Transactions on Multimedia"
 arxiv: https://arxiv.org/abs/2308.14737
 code: 
 website: 
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. a
