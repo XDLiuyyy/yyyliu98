@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Multi-grained gradual inference model for multimedia event extraction"
+title:  "Multi-Grained Gradual Inference Model for Multimedia Event Extraction"
 date:   2024-06-05 12:10 +00:00
 image: images/TCSVT.jpg
 categories: research

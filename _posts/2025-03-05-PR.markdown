@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Knowledge-Driven Compositional action recognition"
+title:  "Knowledge-Driven Compositional Action Recognition"
 date:   2025-03-05 12:10 +00:00
 image: images/PR.jpg
 categories: research
