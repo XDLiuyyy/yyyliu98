@@ -2,7 +2,7 @@
 layout: post
 title:  "MRTA: Multi-resolution Training Algorithm for Multitemporal Semantic Change Detection"
 date:   2021-12-09 12:10 +00:00
-image: 
+image: images/IGARSS.jpg
 categories: research
 author: "Yang Liu"
 authors: " Qianyue Bao, Yang Liu, Zixiao Zhang, Dafan Chen, Yuting Yang, Licheng Jiao, Fang Liu"
