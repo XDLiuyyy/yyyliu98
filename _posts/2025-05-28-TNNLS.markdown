@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "A Knowledge-Based Hierarchical Causal Inference Network for Video Action Recognition"
+title:  "Knowledge-Driven Compositional action recognition"
 date:   2024-06-05 12:10 +00:00
 image: images/liuyang_icon.jpg
 categories: research
 author: "Yang Liu"
 authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Lingling Li, Yuwei Guo, Puhua Chen"
-venue: "IEEE Transactions on Multimedia"
+venue: "Pattern Recognition"
 arxiv: 
 code: 
 website: 
