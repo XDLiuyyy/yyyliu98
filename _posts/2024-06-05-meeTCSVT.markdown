@@ -5,7 +5,7 @@ date:   2024-06-05 12:10 +00:00
 image: images/TCSVT.jpg
 categories: research
 author: "Yang Liu"
-authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Long Sun, Shuo Li, Lingling Li, Xu Liu"
+authors: "Yang Liu, Fang Liu, Licheng Jiao, Qianyue Bao, Long Sun, Shuo Li, Lingling Li, Xu Liu"
 venue: "IEEE Transactions on Circuits and Systems for Video Technology"
 arxiv: 
 code: 
