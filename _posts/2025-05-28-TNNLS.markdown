@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Knowledge-Driven Compositional action recognition"
+title:  "Chain-of-Situation Aware Progressive Inference Learning"
 date:   2024-06-05 12:10 +00:00
-image: images/liuyang_icon.jpg
+image: images/TNNLS.jpg
 categories: research
 author: "Yang Liu"
 authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Lingling Li, Yuwei Guo, Puhua Chen"
-venue: "Pattern Recognition"
+venue: "IEEE Transactions on Neural Networks and Learning Systems"
 arxiv: 
 code: 
 website: 
