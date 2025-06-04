@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hierarchical scene normality-binding modeling for anomaly detection in surveillance videos"
+date:   2022-07-09 12:10 +00:00
+image: images/TNNLS.jpg
+categories: research
+author: "Yang Liu"
+authors: " Qianyue Bao, Fang Liu, <strong>Yang Liu</strong>, Licheng Jiao, Xu Liu, Lingling Li"
+venue: "Proceedings of the 30th ACM international conference on multimedia"
+arxiv: 
+code: 
+website: 
+---

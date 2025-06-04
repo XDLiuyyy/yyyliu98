@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Chain-of-Situation Aware Progressive Inference Learning"
-date:   2024-06-05 12:10 +00:00
+date:   2025-05-28 12:10 +00:00
 image: images/TNNLS.jpg
 categories: research
 author: "Yang Liu"
-authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Lingling Li, Yuwei Guo, Puhua Chen"
+authors: "<strong>Yang Liu</strong>, Fang Liu, Licheng Jiao, Qianyue Bao, Shuo Li, Lingling Li, Xu Liu, Puhua Chen, Wenping Ma"
 venue: "IEEE Transactions on Neural Networks and Learning Systems"
 arxiv: 
 code: 

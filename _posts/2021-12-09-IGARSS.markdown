@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MRTA: Multi-resolution training algorithm for multitemporal semantic change detection"
+date:   2021-12-09 12:10 +00:00
+image: images/TNNLS.jpg
+categories: research
+author: "Yang Liu"
+authors: " Qianyue Bao, <strong>Yang Liu</strong>, Zixiao Zhang, Dafan Chen, Yuting Yang, Licheng Jiao, Fang Liu"
+venue: "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS"
+arxiv: 
+code: 
+website: 
+---
